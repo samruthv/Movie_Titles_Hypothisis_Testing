@@ -12,4 +12,4 @@ I am a very big fan of film and TV and was able to find a dataset on Kaggle that
 We can see if countries lean towards making certain types of rated titles. This can give us a better understanding of what types of movies different locations prefer and maybe give us a bit more understanding of the different cultures.
 The original data set: https://www.kaggle.com/shivamb/netflix-shows
 
-## Method used: Chi-squared tes
+### Method used: Chi-squared tes
