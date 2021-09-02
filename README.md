@@ -16,6 +16,7 @@ The original data set: https://www.kaggle.com/shivamb/netflix-shows
 Chi-squared test
 
 Take a look at the jupyter notebook for a better presentation fo the project:
+https://github.com/samruthv/Movie_Titles_Hypothisis_Testing/tree/main/Movie_Titles_Hypothisis_Testing
 
 ### Hypothesis Test:
 H0: There is no relationship between the country making the title and the rating of the title. (INDEPENDENT)
